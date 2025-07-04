@@ -24,6 +24,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Install Swedish locale
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y locales
+          sudo locale-gen sv_SE.UTF-8
+          sudo update-locale LANG=sv_SE.UTF-8
+          export LANG=sv_SE.UTF-8
+
       - name: Run script
         run: python main.py
         env:

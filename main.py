@@ -7,7 +7,7 @@ import locale
 import json
 from os import getenv
 
-locale.setlocale(locale.LC_TIME, "sv_SE")
+locale.setlocale(locale.LC_TIME, "sv_SE.UTF-8")
 auth = Auth.Token(getenv("TOKEN"))
 
 github_api = Github(auth=auth)
