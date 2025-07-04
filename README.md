@@ -1,1 +1,1 @@
-# course-planning
+# Course dashboard

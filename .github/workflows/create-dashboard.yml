@@ -1,7 +1,9 @@
 name: Skapa lektionsöversikt
 
 on:
-  push:
+  schedule:
+    - cron: "0 4 * * *" # Körs varje natt
+  workflow_dispatch:
 
 permissions:
   contents: write
