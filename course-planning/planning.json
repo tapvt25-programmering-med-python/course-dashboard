@@ -1,0 +1,18 @@
+{
+  "32": {
+    "content": "- Genomgång av kursupplägg\n - Utvecklingsverktyg och miljö\n - Intro till Python\n - Variabler, datatyper och villkor"
+  },
+  "33": {
+    "content": "- Grunderna i Git och GitHub\n - Listor, dictionaries och loopar"
+  },
+  "34": { "content": "- Funktioner och moduler" },
+  "35": { "content": "- Felhantering i Python" },
+  "36": {
+    "content": "- Objektorienterad programmering"
+  },
+  "37": { "content": "- Enhetstester i Python" },
+  "38": {
+    "content": "- Testdriven utveckling (TDD)"
+  },
+  "39": { "content": "- Examination" }
+}
