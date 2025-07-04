@@ -12,7 +12,7 @@ auth = Auth.Token(getenv("TOKEN"))
 
 github_api = Github(auth=auth)
 
-organization = "Folkuniversitetet-BFU-VT25";
+organization = "Folkuniversitetet-BFU-VT25"
 
 def get_repos():
     org = github_api.get_organization(org=organization)
