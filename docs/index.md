@@ -2,6 +2,8 @@
 
 ## Vecka 32
 
+### Lektion: Måndag 4/8 kl 13-17
+
 ### Veckans innehåll: 
  - Genomgång av kursupplägg
  - Utvecklingsverktyg och miljö
@@ -14,6 +16,8 @@ _(Inget lektionsmaterial är publicerat denna vecka än)_
 
 ## Vecka 33
 
+### Lektion: Måndag 11/8 kl 13-17
+
 ### Veckans innehåll: 
  - Grunderna i Git och GitHub
  - Listor, dictionaries och loopar
@@ -24,6 +28,8 @@ _(Inget lektionsmaterial är publicerat denna vecka än)_
 
 ## Vecka 34
 
+### Lektion: Måndag 18/8 kl 13-17
+
 ### Veckans innehåll: 
  - Funktioner och moduler
 
@@ -32,6 +38,8 @@ _(Inget lektionsmaterial är publicerat denna vecka än)_
 _(Inget lektionsmaterial är publicerat denna vecka än)_
 
 ## Vecka 35
+
+### Lektion: Måndag 25/8 kl 13-17
 
 ### Veckans innehåll: 
  - Felhantering i Python
@@ -42,6 +50,8 @@ _(Inget lektionsmaterial är publicerat denna vecka än)_
 
 ## Vecka 36
 
+### Lektion: Måndag 1/9 kl 13-17
+
 ### Veckans innehåll: 
  - Objektorienterad programmering
 
@@ -50,6 +60,8 @@ _(Inget lektionsmaterial är publicerat denna vecka än)_
 _(Inget lektionsmaterial är publicerat denna vecka än)_
 
 ## Vecka 37
+
+### Lektion: Måndag 8/9 kl 13-17
 
 ### Veckans innehåll: 
  - Enhetstester i Python
@@ -60,6 +72,8 @@ _(Inget lektionsmaterial är publicerat denna vecka än)_
 
 ## Vecka 38
 
+### Lektion: Måndag 15/9 kl 13-17
+
 ### Veckans innehåll: 
  - Testdriven utveckling (TDD)
 
@@ -68,6 +82,8 @@ _(Inget lektionsmaterial är publicerat denna vecka än)_
 _(Inget lektionsmaterial är publicerat denna vecka än)_
 
 ## Vecka 39
+
+### Lektion: Måndag 22/8 kl 13-17
 
 ### Veckans innehåll: 
  - Examination
