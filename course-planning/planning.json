@@ -1,18 +1,31 @@
 {
   "32": {
-    "content": "- Genomgång av kursupplägg\n - Utvecklingsverktyg och miljö\n - Intro till Python\n - Variabler, datatyper och villkor"
+    "content": "- Genomgång av kursupplägg\n - Utvecklingsverktyg och miljö\n - Intro till Python\n - Variabler, datatyper och villkor",
+    "lesson": "Måndag 4/8 kl 13-17"
   },
   "33": {
-    "content": "- Grunderna i Git och GitHub\n - Listor, dictionaries och loopar"
+    "content": "- Grunderna i Git och GitHub\n - Listor, dictionaries och loopar",
+    "lesson": "Måndag 11/8 kl 13-17"
   },
-  "34": { "content": "- Funktioner och moduler" },
-  "35": { "content": "- Felhantering i Python" },
+  "34": {
+    "content": "- Funktioner och moduler",
+    "lesson": "Måndag 18/8 kl 13-17"
+  },
+  "35": {
+    "content": "- Felhantering i Python",
+    "lesson": "Måndag 25/8 kl 13-17"
+  },
   "36": {
-    "content": "- Objektorienterad programmering"
+    "content": "- Objektorienterad programmering",
+    "lesson": "Måndag 1/9 kl 13-17"
   },
-  "37": { "content": "- Enhetstester i Python" },
+  "37": {
+    "content": "- Enhetstester i Python",
+    "lesson": "Måndag 8/9 kl 13-17"
+  },
   "38": {
-    "content": "- Testdriven utveckling (TDD)"
+    "content": "- Testdriven utveckling (TDD)",
+    "lesson": "Måndag 15/9 kl 13-17"
   },
-  "39": { "content": "- Examination" }
+  "39": { "content": "- Examination", "lesson": "Måndag 22/8 kl 13-17" }
 }

@@ -60,9 +60,11 @@ course_planning = json.load(planning_file)
 
 for week_nr in range(32, 40):
     title = f"## ✅ Pågående: Vecka {week_nr}" if week_nr == current_week else f"## Vecka {week_nr}"
-    week_content = course_planning[str(week_nr)].get('content')
+    week_content = course_planning[str(week_nr)].get("content")
+    lesson = course_planning[str(week_nr)].get("lesson")
 
     markdown += f"{title}\n\n"
+    markdown += f"### Lektion: {lesson}\n\n"
     markdown += f"### Veckans innehåll: \n {week_content}\n\n"
     markdown += f"### Lektionsmaterial\n\n"
 
