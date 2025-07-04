@@ -12,7 +12,7 @@ auth = Auth.Token(getenv("TOKEN"))
 
 github_api = Github(auth=auth)
 
-organization = "Folkuniversitetet-BFU-VT25"
+organization = "tapvt25-programmering-med-python"
 
 def get_repos():
     org = github_api.get_organization(org=organization)
@@ -58,7 +58,7 @@ markdown = f"# 📚 Programmering med Python - Lektionsöversikt HT25\n\n"
 planning_file = open("course-planning/planning.json")
 course_planning = json.load(planning_file)
 
-for week_nr in range(17, 25):
+for week_nr in range(32, 40):
     title = f"## ✅ Pågående: Vecka {week_nr}" if week_nr == current_week else f"## Vecka {week_nr}"
     week_content = course_planning[str(week_nr)].get('content')
 
