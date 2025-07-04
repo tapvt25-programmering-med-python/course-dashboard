@@ -1,82 +1,73 @@
 # 📚 Programmering med Python - Lektionsöversikt HT25
 
-## Vecka 17
+## Vecka 32
 
 ### Veckans innehåll: 
- - Genomgång av BFU-upplägget
- - Introduktion till webbvärlden (stacken)
+ - Genomgång av kursupplägg
  - Utvecklingsverktyg och miljö
- - Grunder i GitHub
- - Grunder i HTML
+ - Intro till Python
+ - Variabler, datatyper och villkor
 
 ### Lektionsmaterial
 
-- **Tisdag** – [lektion-2025-04-22](https://github.com/Folkuniversitetet-BFU-VT25/lektion-2025-04-22) – intro till BFU, Github
-- **Onsdag** – [lektion-2025-04-23](https://github.com/Folkuniversitetet-BFU-VT25/lektion-2025-04-23) –  Intro till HTML
+_(Inget lektionsmaterial är publicerat denna vecka än)_
 
-## Vecka 18
+## Vecka 33
 
 ### Veckans innehåll: 
- - Grunder i CSS
- - CSS layout med flexbox
+ - Grunderna i Git och GitHub
+ - Listor, dictionaries och loopar
 
 ### Lektionsmaterial
 
-- **Måndag** – [lektion-2025-04-28](https://github.com/Folkuniversitetet-BFU-VT25/lektion-2025-04-28) – –
+_(Inget lektionsmaterial är publicerat denna vecka än)_
 
-## Vecka 19
+## Vecka 34
 
 ### Veckans innehåll: 
- - Datalogiskt tänkande
- - Pseudokod
+ - Funktioner och moduler
 
 ### Lektionsmaterial
 
-- **Måndag** – [lektion-2025-05-05](https://github.com/Folkuniversitetet-BFU-VT25/lektion-2025-05-05) – intro till datalogiskt tänkande och pseudokod
-- **Torsdag** – [lektion-2025-05-08](https://github.com/Folkuniversitetet-BFU-VT25/lektion-2025-05-08) – Genomgång av Poster Shop
+_(Inget lektionsmaterial är publicerat denna vecka än)_
 
-## Vecka 20
+## Vecka 35
 
 ### Veckans innehåll: 
- - JS datatyper
- - JS funktioner
-
+ - Felhantering i Python
 
 ### Lektionsmaterial
 
-- **Måndag** – [lektion-2025-05-12](https://github.com/Folkuniversitetet-BFU-VT25/lektion-2025-05-12) – Introduktion till JS, variabler, villkor och funktioner
-- **Tisdag** – [lektion-2025-05-13](https://github.com/Folkuniversitetet-BFU-VT25/lektion-2025-05-13) – BMI-räknaren
+_(Inget lektionsmaterial är publicerat denna vecka än)_
 
-## Vecka 21
+## Vecka 36
 
 ### Veckans innehåll: 
- - JS kodflöde
- - JS datastrukturer (array + objekt)
- - JS loopar
+ - Objektorienterad programmering
 
 ### Lektionsmaterial
 
-- **Måndag** – [lektion-2025-05-19](https://github.com/Folkuniversitetet-BFU-VT25/lektion-2025-05-19) – Repetition med sten, sax och påse. Introduktion till arrayer, objekt och loopar
+_(Inget lektionsmaterial är publicerat denna vecka än)_
 
-## Vecka 22
+## Vecka 37
 
 ### Veckans innehåll: 
- - JS events och DOM interaktion
+ - Enhetstester i Python
 
 ### Lektionsmaterial
 
-- **Måndag** – [lektion-2025-05-26](https://github.com/Folkuniversitetet-BFU-VT25/lektion-2025-05-26) – Genomgång av DOM interaktion och events samt objekt
+_(Inget lektionsmaterial är publicerat denna vecka än)_
 
-## Vecka 23
+## Vecka 38
 
 ### Veckans innehåll: 
- - Asynkron JS och API-anrop
+ - Testdriven utveckling (TDD)
 
 ### Lektionsmaterial
 
-- **Måndag** – [lektion-2025-06-02](https://github.com/Folkuniversitetet-BFU-VT25/lektion-2025-06-02) – Genomgång av asynkron JS och API-anrop
+_(Inget lektionsmaterial är publicerat denna vecka än)_
 
-## Vecka 24
+## Vecka 39
 
 ### Veckans innehåll: 
  - Examination
