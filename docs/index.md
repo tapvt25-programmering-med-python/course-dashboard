@@ -1,6 +1,6 @@
 # 📚 Programmering med Python - Lektionsöversikt HT25
 
-## Vecka 32
+## ✅ Pågående: Vecka 32
 
 ### Lektion: Måndag 4/8 kl 13-17
 
