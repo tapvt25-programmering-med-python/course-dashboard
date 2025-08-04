@@ -12,7 +12,7 @@
 
 ### Lektionsmaterial
 
-_(Inget lektionsmaterial är publicerat denna vecka än)_
+- **måndag** – [lektion-2025-08-04](https://github.com/tapvt25-programmering-med-python/lektion-2025-08-04) – Kodexempel med variabler, datatyper och villkor
 
 ## Vecka 33
 
