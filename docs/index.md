@@ -24,7 +24,7 @@
 
 ### Lektionsmaterial
 
-_(Inget lektionsmaterial är publicerat denna vecka än)_
+- **måndag** – [lektion-2025-08-11](https://github.com/tapvt25-programmering-med-python/lektion-2025-08-11) – –
 
 ## Vecka 34
 
