@@ -1,6 +1,6 @@
 # 📚 Programmering med Python - Lektionsöversikt HT25
 
-## ✅ Pågående: Vecka 32
+## Vecka 32
 
 ### Lektion: Måndag 4/8 kl 13-17
 
@@ -14,7 +14,7 @@
 
 - **måndag** – [lektion-2025-08-04](https://github.com/tapvt25-programmering-med-python/lektion-2025-08-04) – Kodexempel med variabler, datatyper och villkor
 
-## Vecka 33
+## ✅ Pågående: Vecka 33
 
 ### Lektion: Måndag 11/8 kl 13-17
 
