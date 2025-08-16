@@ -35,7 +35,7 @@
 
 ### Lektionsmaterial
 
-_(Inget lektionsmaterial är publicerat denna vecka än)_
+- **måndag** – [lektion-2025-08-18](https://github.com/tapvt25-programmering-med-python/lektion-2025-08-18) – Genomgång av funktioner och moduler
 
 ## Vecka 35
 
