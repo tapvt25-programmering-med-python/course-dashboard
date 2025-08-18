@@ -14,7 +14,7 @@
 
 - **måndag** – [lektion-2025-08-04](https://github.com/tapvt25-programmering-med-python/lektion-2025-08-04) – Kodexempel med variabler, datatyper och villkor
 
-## ✅ Pågående: Vecka 33
+## Vecka 33
 
 ### Lektion: Måndag 11/8 kl 13-17
 
@@ -26,7 +26,7 @@
 
 - **måndag** – [lektion-2025-08-11](https://github.com/tapvt25-programmering-med-python/lektion-2025-08-11) – –
 
-## Vecka 34
+## ✅ Pågående: Vecka 34
 
 ### Lektion: Måndag 18/8 kl 13-17
 
