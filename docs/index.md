@@ -24,7 +24,7 @@
 
 ### Lektionsmaterial
 
-- **måndag** – [lektion-2025-08-11](https://github.com/tapvt25-programmering-med-python/lektion-2025-08-11) – –
+- **måndag** – [lektion-2025-08-11](https://github.com/tapvt25-programmering-med-python/lektion-2025-08-11) – Loopar och listor
 
 ## Vecka 34
 
@@ -46,7 +46,7 @@
 
 ### Lektionsmaterial
 
-_(Inget lektionsmaterial är publicerat denna vecka än)_
+- **måndag** – [lektion-2025-08-25](https://github.com/tapvt25-programmering-med-python/lektion-2025-08-25) – Felhantering
 
 ## Vecka 36
 
