@@ -57,7 +57,7 @@
 
 ### Lektionsmaterial
 
-_(Inget lektionsmaterial är publicerat denna vecka än)_
+- **måndag** – [lektion-2025-09-01](https://github.com/tapvt25-programmering-med-python/lektion-2025-09-01) – –
 
 ## Vecka 37
 
