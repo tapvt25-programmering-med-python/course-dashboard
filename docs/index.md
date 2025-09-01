@@ -37,7 +37,7 @@
 
 - **måndag** – [lektion-2025-08-18](https://github.com/tapvt25-programmering-med-python/lektion-2025-08-18) – Genomgång av funktioner och moduler
 
-## ✅ Pågående: Vecka 35
+## Vecka 35
 
 ### Lektion: Måndag 25/8 kl 13-17
 
@@ -48,7 +48,7 @@
 
 - **måndag** – [lektion-2025-08-25](https://github.com/tapvt25-programmering-med-python/lektion-2025-08-25) – Felhantering
 
-## Vecka 36
+## ✅ Pågående: Vecka 36
 
 ### Lektion: Måndag 1/9 kl 13-17
 
