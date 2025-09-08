@@ -48,7 +48,7 @@
 
 - **måndag** – [lektion-2025-08-25](https://github.com/tapvt25-programmering-med-python/lektion-2025-08-25) – Felhantering
 
-## ✅ Pågående: Vecka 36
+## Vecka 36
 
 ### Lektion: Måndag 1/9 kl 13-17
 
@@ -59,7 +59,7 @@
 
 - **måndag** – [lektion-2025-09-01](https://github.com/tapvt25-programmering-med-python/lektion-2025-09-01) – Objektorienterad programmering
 
-## Vecka 37
+## ✅ Pågående: Vecka 37
 
 ### Lektion: Måndag 8/9 kl 13-17
 
