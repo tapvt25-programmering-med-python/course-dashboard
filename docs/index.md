@@ -68,7 +68,7 @@
 
 ### Lektionsmaterial
 
-- **måndag** – [lektion-2025-09-08](https://github.com/tapvt25-programmering-med-python/lektion-2025-09-08) – –
+- **måndag** – [lektion-2025-09-08](https://github.com/tapvt25-programmering-med-python/lektion-2025-09-08) – Introduktion till enhetstester med pytest
 
 ## ✅ Pågående: Vecka 38
 
@@ -79,7 +79,7 @@
 
 ### Lektionsmaterial
 
-_(Inget lektionsmaterial är publicerat denna vecka än)_
+- **måndag** – [lektion-2025-09-15](https://github.com/tapvt25-programmering-med-python/lektion-2025-09-15) – –
 
 ## Vecka 39
 
