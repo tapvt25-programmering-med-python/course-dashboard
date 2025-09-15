@@ -59,7 +59,7 @@
 
 - **måndag** – [lektion-2025-09-01](https://github.com/tapvt25-programmering-med-python/lektion-2025-09-01) – Objektorienterad programmering
 
-## ✅ Pågående: Vecka 37
+## Vecka 37
 
 ### Lektion: Måndag 8/9 kl 13-17
 
@@ -70,7 +70,7 @@
 
 - **måndag** – [lektion-2025-09-08](https://github.com/tapvt25-programmering-med-python/lektion-2025-09-08) – –
 
-## Vecka 38
+## ✅ Pågående: Vecka 38
 
 ### Lektion: Måndag 15/9 kl 13-17
 
