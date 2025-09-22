@@ -90,5 +90,5 @@
 
 ### Lektionsmaterial
 
-_(Inget lektionsmaterial är publicerat denna vecka än)_
+- **måndag** – [lektion-2025-09-22](https://github.com/tapvt25-programmering-med-python/lektion-2025-09-22) – Examination
 
