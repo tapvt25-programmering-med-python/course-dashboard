@@ -81,7 +81,7 @@
 
 - **måndag** – [lektion-2025-09-15](https://github.com/tapvt25-programmering-med-python/lektion-2025-09-15) – –
 
-## ✅ Pågående: Vecka 39
+## Vecka 39
 
 ### Lektion: Måndag 22/8 kl 13-17
 
